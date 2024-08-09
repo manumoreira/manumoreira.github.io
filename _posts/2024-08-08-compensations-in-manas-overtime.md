@@ -18,7 +18,7 @@ Fue exitosa como estrategia para la distribución de los fondos disponibles y a 
 Este modelo encontró su límite hacia 2018 luego de otra crisis de crecimiento, Manas necesitaba crecer, tener más senior devs, pero los salarios que Manas podía ofrecer estaban fuera de los rangos de mercado.
 
 Para superar esta situación se modificó el sistema agregando 3 componentes más a la 
-revisión de pares.
+revisión de pares
 - Componente básico por país
 - Rubrica de competencias
 - Roles
