@@ -11,13 +11,15 @@ Durante los primeros 8 años 2003-2011 fue una estrategia tradicional, el CEO de
 
 Este modelo empezó a crujir cuando Manas empezó a crecer y se hacia imposible visualizar desde una sola persona las tareas de todos.
 
-Como solución a este problema se creó asignum [Asignum](https://github.com/manastech/asignum) que dio inicio a una nueva fase en la cual los salarios eran definidos exclusivamente por los pares. 
+Como solución a este problema se creó [Asignum](https://github.com/manastech/asignum) que dio inicio a una nueva fase en la cual los salarios eran definidos exclusivamente por los pares. 
 
-Durante muchos años este modelo funcionó muy bien, las rondas para definir salarios eran eventos importantísimos donde todos se tomaban muy en serio el trabajo, había estrategias muy diversas, obviamente algunos se habían armado su propia app para procesar los datos. Fue exitosa como estrategia para la distribución de los fondos disponibles y a la vez fue una herramienta muy fuerte de cohesión interna, en general primaba la idea de cuidarnos entre nosotors.
+Fue exitosa como estrategia para la distribución de los fondos disponibles y a la vez fue una herramienta muy fuerte de cohesión interna, en general primaba la idea de cuidarnos entre nosotros.
 
-Este modelo encontró su límite hacia 2018 luego de una crisis de crecimiento, Manas necesitaba crecer, tener más senior devs, había entrevistas, gente entusiasmada que terminaba rechazando la oferta cuando conocía el salario que le podíamos ofrecer.
-Gracias al sistema de reparto por pares los salarios en Manas resultaron ser muy similares, los juniors que recién entraban ganaban solo 4 veces menos de lo que ganaba el senior con más experiencia. Más allá de cuán de acuerdo estabamos personalmente con esa situación, era un problema que nos alejaba del mercado en el que estábamos trabajando.
-Para superar esta situación de extrema igualdad se modificó el sistema agregando 3 componentes más a la revisión de pares.
+Este modelo encontró su límite hacia 2018 luego de otra crisis de crecimiento, Manas necesitaba crecer, tener más senior devs, pero los salarios que Manas podía ofrecer estaban fuera de los rangos de mercado.
+
+Para superar esta situación de extrema igualdad se modificó el sistema agregando 3 componentes más a la 
+revisión de pares.
+
     - Componente básico por país
     - Rubrica de competencias
     - Roles
@@ -48,12 +50,13 @@ Features que rindieron buenos frutos
 [Veámoslo](http://localhost:3000/)
 
 Desde Asignum en adelante en Manas se fijó el hábito de tener rondas de asignaciones/compensaciones
-
+Las rondas para definir salarios eran eventos importantísimos donde todos se tomaban muy en serio el trabajo, había estrategias muy diversas, obviamente algunos se habían armado su propia app para procesar los datos.
 
 ### Asignum limits
 
 Asignum empezó a ser un problema cuando los salarios se empezaron a estancar.
-Manas crecia menos de lo esperado y las compensaciones se terminaron concentrando en el centro de la distribución
+
+Gracias al sistema de reparto por pares los salarios en Manas resultaron ser muy similares, los juniors que recién entraban ganaban solo 4 veces menos de lo que ganaba el senior con más experiencia. Más allá de cuán de acuerdo estabamos personalmente con esa situación, era un problema que nos alejaba del mercado en el que estábamos trabajando.
 
 Se intentó mantener asignum modificando la cantidad de dinero disponible para que cada persona distribuya, de haberse hecho antes tal vez hubiera funcionado, pero al momento en el que se implementó era demasiado tarde.
 
@@ -75,7 +78,7 @@ Se calcula con herramientas como [numbeo](https://www.numbeo.com/cost-of-living/
 
 ### La rúbrica
 
-Es un modelo muy interesante adaptado de la rubrica de medium. 
+Es un modelo muy interesante adaptado de la [rubrica de medium](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit?gid=2049640133#gid=2049640133). 
 La idea es que se puede actualizar periodicamente de manera didtribuida, cualquiera puede pedir una review de un track de cualquier compañero (solo para promoverlo, no para bajarlo)
 
 Tiene de bueno que:
@@ -84,11 +87,13 @@ Tiene de bueno que:
 - Es transparente, todos pueden ver los detalles que definen cada track y cada milestone
 
 Tiene de malo que:
-- Las condiciones inciales influyen demasiado, si empezás con 30 puntos va a ser muy dificil que superes los 90, vas a tener que pedir 10 reviews en un año,
-- Es costoso de mantener: cuando se pide una review hay que fundamentar el pedido, elegir jurado, esprar a que el jurado se junte para evaluarlo, que hagan la devolucióny eso toma tiempo, lo cual refuerza el punto anterior
-- No todos tienen la actitud para pedir una review, aparece un sesgo de personalidad
+- Las condiciones inciales influyen demasiadoL: si empezás con 30 puntos va a ser muy dificil que superes los 90, vas a tener que pedir 10 reviews en un año.
+- Es costoso de mantener: cuando se pide una review hay que fundamentar el pedido, elegir jurado, esprar a que el jurado se junte para evaluarlo, que hagan la devolución y eso toma tiempo, lo cual refuerza el punto anterior.
+- Sesgo de personalidad: No todos tienen la actitud para pedir una review.
 
-Tal vez un camino posible pase por siimplficar el modelo, tal vez 18 tracks sean demasiado, quizás 10 o 12 alcancen
+Posibles mejoras:
+- Limitar la cantidad de tracks: hay superposiciones entre algunos.
+- Consensuar señales y ejemplos para que las reviews sean más rápidas
 
 ### Los roles
 
