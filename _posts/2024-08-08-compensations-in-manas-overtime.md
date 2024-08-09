@@ -27,15 +27,15 @@ revisión de pares
 ## Asignum times 
 
 Asignum fue la herramienta interna que creó Manas para distribuir internamente.
-https://github.com/manastech/asignum
+[Repo de asignum](https://github.com/manastech/asignum)
 
-Don'ts
+Qué quería evitar
 - Evitar los sesgos personales de uno decidiendo por varios
 - Superar las escalas salariales siempre lentas, siempre estancas
 - Esquivar los sesgos provocados por los sistemas de recompensas
 - No babysitear adultos
 
-Objetivos
+Qué quería lograr
 - Que todos participen 
 - Que haya menos disconformidad con los salarios (partimos de la base de que es imposible que no haya algune disconforme, la idea es reducir esa disconformidad no evitarla)
 - Que dependa menos de factores subjetivos (o que dependa de una subjetividad grupal que no es propiedad de ningún sujeto)
@@ -46,7 +46,7 @@ Features que rindieron buenos frutos
 - Compartir comentarios (Agregó un montón de valor a nivel grupal la posibilidad de dejar mensajes anónimos) 
 - Distribuir en rondas (para corregir)
  
-[Veámoslo](http://localhost:3000/)
+[Demo de Asignum](http://localhost:3000/)
 
 Desde Asignum en adelante en Manas se fijó el hábito de tener rondas de asignaciones/compensaciones
 Las rondas para definir salarios eran eventos importantísimos donde todos se tomaban muy en serio el trabajo, había estrategias muy diversas, obviamente algunos se habían armado su propia app para procesar los datos.
@@ -68,7 +68,7 @@ Se basa en 4 componentes
 - Roles y responsabilidades
 - Peer review (Asignum)
 
-[Veámoslo](https://compensation.manas.tech/)
+[Herramienta actual de compensaciones](https://compensation.manas.tech/)
 
 ### El componente básico
 
