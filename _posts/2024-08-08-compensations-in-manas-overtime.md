@@ -9,7 +9,7 @@ layout: default
 Manas fue cambiando la forma en la que definió los salarios en sus 20 años de historia.
 Durante los primeros 8 años 2003-2011 fue una estrategia tradicional, el CEO definía los salarios, siempre abierto a comentarios, sugerencias, críticas, pero al final una sola persona decidía.
 
-Este modelo empezó a crujir cuando el CEO empezó a vivir en otro lado y dejó de estar presente en el trabajo diario de la oficina.
+Este modelo empezó a crujir cuando Manas empezó a crecer y se hacia imposible visualizar desde una sola persona las tareas de todos.
 
 Como solución a este problema se creó asignum [Asignum](https://github.com/manastech/asignum) que dio inicio a una nueva fase en la cual los salarios eran definidos exclusivamente por los pares. 
 
@@ -93,7 +93,7 @@ Tal vez un camino posible pase por siimplficar el modelo, tal vez 18 tracks sean
 ### Los roles
 
 Es un modelo de escala clásico, que no está mal si combina con otros
-[Ver detalle] (https://compensation.manas.tech/role)
+[Ver detalle](https://compensation.manas.tech/role)
 
 ### El peer review
 
