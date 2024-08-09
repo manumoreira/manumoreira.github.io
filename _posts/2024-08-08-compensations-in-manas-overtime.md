@@ -1,3 +1,9 @@
+---
+title: "Compensations in Manas overtime"
+date: 2024-08-08 10:00:00 +0000
+layout: default
+---
+
 ## Breve historia de los salarios y compensaciones en Manas
 
 Manas fue cambiando la forma en la que definió los salarios en sus 20 años de historia.
