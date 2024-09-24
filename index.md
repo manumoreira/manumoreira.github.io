@@ -11,6 +11,6 @@ This is my landing page where you can find the latest updates and posts.
 
 Here are some of my latest posts:
 
-- [Compensations in Manas](/2024/08/08/compensations-in-manas-overtime)
+- [Compensations in Manas]()
 
 Feel free to browse around and read my latest articles.
