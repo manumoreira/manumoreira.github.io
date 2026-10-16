@@ -1,0 +1,19 @@
+- name: Pipeline ETL para encuestas
+  repo: https://github.com/manumoreira/etl-pipeline-ejemplo
+  description: Ejemplo de pipeline ETL para procesamiento de encuestas de opinión, pensado para orientar analistas e investigadores en el armado de un ETL robusto para sus datos.
+
+- name: Apps de Métodos Cuantitativos
+  repo: https://github.com/manumoreira/MCA
+  description: Apps interactivas para enseñar estadística en antropología, desde medidas descriptivas hasta el teorema central del límite.
+
+- name: GLASSO y dependencias estructurales
+  repo: https://github.com/manumoreira/eea-glasso
+  description: Ejemplos para descubrir qué variables dependen entre sí, aplicados a jugadores de fútbol y a la genómica del cáncer de mama.
+
+- name: Experimento de stacking
+  repo: https://github.com/manumoreira/exp-stacking-dmeyf25
+  description: Experimento colaborativo que usa las predicciones de varios modelos lightGBM como insumo de un modelo final.
+
+# - name: Time tracking para Notion
+#   repo: https://github.com/manumoreira/...
+#   description: ...
