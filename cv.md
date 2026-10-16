@@ -31,7 +31,7 @@ Desarrollo y monitoreo de sistemas de información para tamizaje, e interoperabi
 ### Analista de datos freelance
 <span class="meta">Octubre 2010 – abril 2014</span>
 
-Investigación de mercado y opinión pública en [Brain Network](http://www.brain-nt.com/) y Pulso Local: procesamiento en SPSS, informes y automatización con VBA. Análisis de redes sociales en [Tree Intelligence](https://www.treeintelligence.com/en/).
+Investigación de mercado y opinión pública en [Brain Network](http://www.brain-nt.com/) y Pulso Local: procesamiento en SPSS, informes y automatización con VBA. Análisis de redes sociales en Tree Intelligence.
 
 ### Universidad de Buenos Aires
 **Becario de investigación**  

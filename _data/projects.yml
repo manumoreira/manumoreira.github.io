@@ -1,3 +1,7 @@
+- name: Pomorodo timer para Notion
+  repo: https://github.com/manumoreira/notion-pomodoro-CLI
+  description: Pomodoro timer para trackear tareas contra una base de datos de Notion
+
 - name: Pipeline ETL para encuestas
   repo: https://github.com/manumoreira/etl-pipeline-ejemplo
   description: Ejemplo de pipeline ETL para procesamiento de encuestas de opinión, pensado para orientar analistas e investigadores en el armado de un ETL robusto para sus datos.
