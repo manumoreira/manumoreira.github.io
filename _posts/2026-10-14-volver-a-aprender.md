@@ -21,7 +21,7 @@ Pero a pesar de estos intentos para darle diversidad y dinámica a las clases, m
 
 ## La vuelta al pupitre
 
-Volver a participar como estudiante en una nueva carrera de posgrado fue la clave para el cambio de perspectiva, no fue una participación aislada en un curso, ni un MOOC, era volver literalmente al pupitre en un formato de carrera. 
+Volver a participar como estudiante en una nueva carrera de posgrado fue la clave para el cambio de perspectiva, no fue una participación aislada en un curso, ni un [MOOC](https://es.wikipedia.org/wiki/Massive_Open_Online_Course), era volver literalmente al pupitre en un formato de carrera. 
 
 Estas horas como observador me invitaron a ver las cosas de otra manera. Las clases fueron de lo más diversas: virtuales, presenciales, más teóricas, más prácticas, entre esta variedad se fue vislumbrando el punto que había estado fuera de mi vista todo este tiempo: la claridad conceptual no es siempre proporcional a la calidad del aprendizaje. Los docentes pueden no dar la respuesta correcta, las clases pueden entrar en momentos de confusión donde nadie sepa bien el rumbo, las ideas que se proponen pueden reconsiderarse y contradecirse en el transcurso de una cursada.
 

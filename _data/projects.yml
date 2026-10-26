@@ -17,7 +17,3 @@
 - name: Experimento de stacking
   repo: https://github.com/manumoreira/exp-stacking-dmeyf25
   description: Experimento colaborativo que usa las predicciones de varios modelos lightGBM como insumo de un modelo final.
-
-# - name: Time tracking para Notion
-#   repo: https://github.com/manumoreira/...
-#   description: ...
