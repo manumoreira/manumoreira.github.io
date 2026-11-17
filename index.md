@@ -4,7 +4,7 @@ title: Inicio
 ---
 
 <section class="intro">
-  <p class="lead">Antropólogo de formación, trabajo hace más de 20 años en desarrollo de software. Pasé por distnitas áreas, hoy me dedico a gestionar proyectos y equipos.</p>
+  <p class="lead">Antropólogo de formación, trabajo hace más de 20 años en desarrollo de software. Pasé por distintas áreas, hoy me dedico a gestionar proyectos y equipos.</p>
   <p>También soy docente universitario de metodología de la investigación y estadística en ciencias sociales, y estoy terminando la especialización en data mining en FCEN UBA.</p>
   <p> Acá comparto artículos, herramientas y algo de investigación.</p>
 </section>
